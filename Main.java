@@ -1,5 +1,5 @@
 package alg1;
-class Sortare {
+class Main {
     public static void InsertionSort(int []A){
         for(int j =1 ; j < A.length; j++) {
             int key = A[j];
